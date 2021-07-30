@@ -5,6 +5,7 @@ Generates color palettes for each frame of a movie. Also allows you to search fo
 
 <sup><sup> Movie: The Secret Life of Walter Mitty</sup></sup>
 
+<sup> Requires [awthemes 10.4.0](https://sourceforge.net/projects/tcl-awthemes/), download and place into the same folder </sup>
 ## *Not exactly ready for public use, just trying to get all my working projects uploaded
 (Still need to clean up the code, and make the GUI for User friendly)
 
