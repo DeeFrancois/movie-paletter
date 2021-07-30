@@ -50,7 +50,7 @@ But with the original algorithm we get:
 
 ![frame](https://github.com/DeeFrancois/movie-paletter/blob/master/ReadmeImages/example_before.png)
 
-Because there are so many dark pixels, it drowns out the colors that are suppose to stand out.
+Because there are so many dark pixels, it drowns out the colors that stand out to us.
 The way to fix this is to simply, coalesce all the dark RGB values into one color on the palette. So now we have this:
 
 ![frame](https://github.com/DeeFrancois/movie-paletter/blob/master/ReadmeImages/example_muddy.png)
