@@ -55,7 +55,7 @@ The way to fix this is to simply, coalesce all the dark RGB values into one colo
 
 ![frame](https://github.com/DeeFrancois/movie-paletter/blob/master/ReadmeImages/example_muddy.png)
 
-This is still not what we want. This is the same issue as with the dark pixels but this time we can't just map everythign to one color.
+This is still not what we want. This is the same issue as with the dark pixels but this time we obviously can't just map every non-dark color to one color.
 The solution to this was add a difference factor to determine whether an RGB value should be added to the palette. 
 So the algorithm just needs to check if the current RGB value has a high enough difference factor when compared with the previous colors. 
 <sup>The "Difference factor" is calculated using the equation described [here](https://en.wikipedia.org/wiki/Color_difference)</sup>
