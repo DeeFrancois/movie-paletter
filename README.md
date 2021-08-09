@@ -7,13 +7,13 @@ Generates color palettes for each frame of a movie. Also allows you to search fo
 
 <sup> Requires [awthemes 10.4.0](https://sourceforge.net/projects/tcl-awthemes/), download and place into the same folder </sup>
 ## *Not exactly ready for public use, just trying to get all my working projects uploaded
-(Still need to clean up the code, and make the GUI for User friendly)
+(Still need to clean up the code, and make the GUI more user friendly)
 
 ## Motivation
 I wanted to make one of those movie collage posts on Twitter and thought it would be cool if I had a program that made it easy for me to keep to a certain color scheme
 
 ## How it works
-This is subject to change since this isn't at all User friendly, but so far..
+This is subject to change since this isn't at all user friendly, but so far..
 - Open Movie File (only .mp4 works so far)
 - Move bottom left slider to change the seek speed and click the Start button
 - Choose your desired color and the seeking will automatically pause when it finds a match
