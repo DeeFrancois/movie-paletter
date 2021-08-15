@@ -6,8 +6,7 @@ Generates color palettes for each frame of a movie. Also allows you to search fo
 <sup><sup> Movie: The Secret Life of Walter Mitty</sup></sup>
 
 <sup> Requires [awthemes 10.4.0](https://sourceforge.net/projects/tcl-awthemes/), download and place into the same folder </sup>
-## *Not exactly ready for public use, just trying to get all my working projects uploaded
-(Still need to clean up the code, and make the GUI more user friendly)
+## *Not exactly ready for public use, still need to make the interface user friendly, definitely works though 
 
 ## Motivation
 I wanted to make one of those movie collage posts on Twitter and thought it would be cool if I had a program that made it easy for me to keep to a certain color scheme
